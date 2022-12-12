@@ -13,3 +13,4 @@ The application will be based on Machine Learning (ML) standards.
 The practice of algorithmic trading has been gaining a strong footing in the industry for the past couple of years mainly because of the large scope to study and implement tons of data that would not have been humanly possible.
 This project is work in progress that makes use of LSTM and RNN. 
 The main objective is to analyze large trends of data and maintain a high level of accuracy.
+[Stock Prediction App.pdf](https://github.com/leyviya/stock-prediction-web-app-python/files/10208075/Stock.Prediction.App.pdf)
